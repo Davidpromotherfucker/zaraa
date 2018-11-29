@@ -231,8 +231,8 @@ function play(guild, song) {
  
 const Discord = require("discord.js");
 const client = new Discord.Client();
-var prefix = "A";
-var adminprefix = 'A'
+var prefix = "1";
+var adminprefix = '1'
 
 const developers = ["505811134528356352"]
 client.on('message', message => {
